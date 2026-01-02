@@ -88,9 +88,9 @@ nav a:hover {
     top: 60px;
     right: 60px;
     background: none;
-    border: 1px solid #333;
+    border: 1px solid #ffffff;
     border-radius: 3%;
-    color: #333;
+    color: #ffffff;
     padding: 0.5rem 1rem;
     cursor: pointer;
     font-family: "Quicksand", sans-serif;
@@ -105,6 +105,7 @@ nav a:hover {
 .lights-toggle:hover {
     background-color: #333;
     color: #fff;
+    transform: scale(105%);
 }
 
 /* Hide spotlight when lights are on */
