@@ -1,4 +1,4 @@
-# Juan Mateo Menendez — Personal Site
+# Juan Mateo Menendez Portfolio Site
 
 A simple, lightweight personal site built with HTML and CSS and deployed via GitHub Pages.
 
